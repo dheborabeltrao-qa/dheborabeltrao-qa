@@ -2,7 +2,7 @@
 
 **`Analista QA`**
 
-Me chamo Dhébora Proença, sou brasileira e atualmente moro em Portugal. Estou em transição de carreira para a área de tecnologia, com foco em Qualidade de Software (QA).
+Me chamo Dhébora Proença, sou brasileira e atualmente moro em Portugal. 
 
 Tenho formação como Analista de QA e venho desenvolvendo minhas habilidades em testes manuais e automatizados, utilizando ferramentas como Jira, Postman e pytest. Estou em constante aprendizado e busco evoluir todos os dias na área de tecnologia.
 
