@@ -6,7 +6,7 @@ Me chamo Dhébora Proença, sou brasileira e atualmente moro em Portugal.
 
 Tenho formação como Analista de QA e venho desenvolvendo minhas habilidades em testes manuais e automatizados, utilizando ferramentas como Jira, Postman e pytest. Estou em constante aprendizado e busco evoluir todos os dias na área de tecnologia.
 
-Atualmente estou atuando como QA numa Associação sem fins lucrativos, trabalhando em uma aplicação mobile para Android.
+Atualmente estou atuando como QA na Associação Mama Thula, trabalhando em uma aplicação mobile para Android.
 
 Antes da área tech, atuei por muitos anos como fotógrafa, o que me trouxe um olhar atento aos detalhes — uma habilidade que hoje aplico diretamente na área de testes, garantindo qualidade e precisão nos processos.
 
